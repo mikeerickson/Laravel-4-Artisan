@@ -12,6 +12,8 @@ This plugin allows you the run the normal Artisan CLI using the Sublime Text int
 - `Laravel Artisan: Clear Compiled`
 - `Laravel Artisan: Down`
 - `Laravel Artisan: Dump Autoload`
+- `Laravel Artisan: Dump`
+- `Laravel Artisan: Tinker`
 - `Laravel Artisan: Help`
 - `Laravel Artisan: List`
 - `Laravel Artisan: Migrate`

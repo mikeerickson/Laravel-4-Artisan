@@ -74,6 +74,20 @@
         }
     },
     {
+        "caption": "Laravel Artisan: Dump",
+        "command": "laravel4_artisan",
+        "args": {
+            "command": "dump"
+        }
+    },
+    {
+        "caption": "Laravel Artisan: Tinker",
+        "command": "laravel4_artisan",
+        "args": {
+            "command": "tinker"
+        }
+    },
+    {
         "caption": "Laravel Artisan: Routes",
         "command": "laravel4_artisan",
         "args": {
