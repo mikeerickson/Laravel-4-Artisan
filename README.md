@@ -76,6 +76,12 @@ Simple command structure:
 Change command `caption` and `command` in `args`.
 Use `fill_in: true` if you need some input for your command and `fill_in_lable: "Text"` for message.
 
+### Change Log:
+2013-10-13 -- [codedungeon@gmail.com](mailto:codedungeon@gmail.com)
+
+- Added Artisan Dump (shorthand for Artisan Dump Auto-Load)
+- Added Artisan Tinker
+
 ### Installation:
 Use Package Controller or create a the directory `Laravel 4 Artisan` in your Sublime Text Packages directory with source code, and you're ready to go.
 
